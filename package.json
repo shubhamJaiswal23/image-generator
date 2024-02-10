@@ -1,0 +1,24 @@
+{
+  "name": "image-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "OpenAI",
+    "Image",
+    "Generator",
+    "Node.Js",
+    "Express"
+  ],
+  "author": "Shubham Jaiswal",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "openai": "^3.1.0"
+  }
+}
